@@ -4,6 +4,6 @@ This repository includes some of the software developed and used throughout my m
 
 Currently, the repository includes:
 <ul>
-  <li> P7, which is a sub repository, including the software developed during the 1. semester of my masters. The project revolved around using deep learning to predict the power from solar panels.
+  <li> <strong>P7_libraries-master</strong>, which is a sub repository, including the software developed during the 1. semester of my masters. The project revolved around using deep learning to predict the power from solar panels.
   
 </ul>
