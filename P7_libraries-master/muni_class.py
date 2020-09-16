@@ -2,7 +2,6 @@
 """
 Created on Thu Feb 15 13:12:53 2018
 
-@author: Tobias
 """
 
 from import_SPP import SPP
