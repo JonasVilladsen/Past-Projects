@@ -2,7 +2,7 @@
 """
 Created on Sun Sep 16 16:09:48 2018
 
-@author: Tobias
+
 """
 
 import import_SPP
