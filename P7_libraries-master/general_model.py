@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 22 13:39:47 2018
 
-@author: Tobias
+
 """
 
 import import_forecast
