@@ -2,7 +2,6 @@
 """
 Created on Wed Nov  7 13:01:28 2018
 
-@author: Tobias
 """
 
 
